@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Item1",
+    "value1": 42,
+    "value2": 7.8,
+    "date": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "name": "Item2",
+    "value1": 15,
+    "value2": 3.2,
+    "date": "2023-02-20"
+  },
+  {
+    "id": 3,
+    "name": "Item3",
+    "value1": 28,
+    "value2": 9.1,
+    "date": "2023-03-10"
+  },
+  {
+    "id": 4,
+    "name": "Item4",
+    "value1": 36,
+    "value2": 5.4,
+    "date": "2023-04-05"
+  },
+  {
+    "id": 5,
+    "name": "Item5",
+    "value1": 19,
+    "value2": 8.3,
+    "date": "2023-05-12"
+  },
+  {
+    "id": 6,
+    "name": "Item6",
+    "value1": 50,
+    "value2": 2.7,
+    "date": "2023-06-18"
+  },
+  {
+    "id": 7,
+    "name": "Item7",
+    "value1": 23,
+    "value2": 6.9,
+    "date": "2023-07-22"
+  },
+  {
+    "id": 8,
+    "name": "Item8",
+    "value1": 45,
+    "value2": 1.5,
+    "date": "2023-08-30"
+  },
+  {
+    "id": 9,
+    "name": "Item9",
+    "value1": 12,
+    "value2": 4.6,
+    "date": "2023-09-14"
+  },
+  {
+    "id": 10,
+    "name": "Item10",
+    "value1": 31,
+    "value2": 7.2,
+    "date": "2023-10-25"
+  },
+  {
+    "id": 11,
+    "name": "Item11",
+    "value1": 27,
+    "value2": 3.8,
+    "date": "2023-11-05"
+  },
+  {
+    "id": 12,
+    "name": "Item12",
+    "value1": 38,
+    "value2": 5.1,
+    "date": "2023-12-10"
+  },
+  {
+    "id": 13,
+    "name": "Item13",
+    "value1": 22,
+    "value2": 9.7,
+    "date": "2024-01-15"
+  },
+  {
+    "id": 14,
+    "name": "Item14",
+    "value1": 41,
+    "value2": 2.3,
+    "date": "2024-02-20"
+  },
+  {
+    "id": 15,
+    "name": "Item15",
+    "value1": 17,
+    "value2": 6.5,
+    "date": "2024-03-08"
+  },
+  {
+    "id": 16,
+    "name": "Item16",
+    "value1": 29,
+    "value2": 8.9,
+    "date": "2024-04-12"
+  },
+  {
+    "id": 17,
+    "name": "Item17",
+    "value1": 48,
+    "value2": 1.2,
+    "date": "2024-05-19"
+  },
+  {
+    "id": 18,
+    "name": "Item18",
+    "value1": 14,
+    "value2": 4.4,
+    "date": "2024-06-23"
+  },
+  {
+    "id": 19,
+    "name": "Item19",
+    "value1": 33,
+    "value2": 7.6,
+    "date": "2024-07-30"
+  },
+  {
+    "id": 20,
+    "name": "Item20",
+    "value1": 25,
+    "value2": 3.9,
+    "date": "2024-08-14"
+  },
+  {
+    "id": 21,
+    "name": "Item21",
+    "value1": 39,
+    "value2": 5.8,
+    "date": "2024-09-20"
+  },
+  {
+    "id": 22,
+    "name": "Item22",
+    "value1": 20,
+    "value2": 9.3,
+    "date": "2024-10-25"
+  },
+  {
+    "id": 23,
+    "name": "Item23",
+    "value1": 47,
+    "value2": 2.1,
+    "date": "2024-11-30"
+  },
+  {
+    "id": 24,
+    "name": "Item24",
+    "value1": 16,
+    "value2": 6.7,
+    "date": "2024-12-05"
+  },
+  {
+    "id": 25,
+    "name": "Item25",
+    "value1": 30,
+    "value2": 8.4,
+    "date": "2025-01-10"
+  },
+  {
+    "id": 26,
+    "name": "Item26",
+    "value1": 43,
+    "value2": 1.9,
+    "date": "2025-02-15"
+  },
+  {
+    "id": 27,
+    "name": "Item27",
+    "value1": 18,
+    "value2": 4.3,
+    "date": "2025-03-20"
+  },
+  {
+    "id": 28,
+    "name": "Item28",
+    "value1": 35,
+    "value2": 7.1,
+    "date": "2025-04-25"
+  },
+  {
+    "id": 29,
+    "name": "Item29",
+    "value1": 24,
+    "value2": 3.5,
+    "date": "2025-05-30"
+  },
+  {
+    "id": 30,
+    "name": "Item30",
+    "value1": 49,
+    "value2": 5.9,
+    "date": "2025-06-05"
+  },
+  {
+    "id": 31,
+    "name": "Item31",
+    "value1": 21,
+    "value2": 9.5,
+    "date": "2025-07-10"
+  },
+  {
+    "id": 32,
+    "name": "Item32",
+    "value1": 37,
+    "value2": 2.8,
+    "date": "2025-08-15"
+  },
+  {
+    "id": 33,
+    "name": "Item33",
+    "value1": 13,
+    "value2": 6.3,
+    "date": "2025-09-20"
+  },
+  {
+    "id": 34,
+    "name": "Item34",
+    "value1": 32,
+    "value2": 8.7,
+    "date": "2025-10-25"
+  },
+  {
+    "id": 35,
+    "name": "Item35",
+    "value1": 26,
+    "value2": 1.4,
+    "date": "2025-11-30"
+  },
+  {
+    "id": 36,
+    "name": "Item36",
+    "value1": 44,
+    "value2": 4.9,
+    "date": "2025-12-05"
+  },
+  {
+    "id": 37,
+    "name": "Item37",
+    "value1": 11,
+    "value2": 7.3,
+    "date": "2026-01-10"
+  },
+  {
+    "id": 38,
+    "name": "Item38",
+    "value1": 34,
+    "value2": 3.6,
+    "date": "2026-02-15"
+  },
+  {
+    "id": 39,
+    "name": "Item39",
+    "value1": 40,
+    "value2": 5.2,
+    "date": "2026-03-20"
+  },
+  {
+    "id": 40,
+    "name": "Item40",
+    "value1": 10,
+    "value2": 9.8,
+    "date": "2026-04-25"
+  },
+  {
+    "id": 41,
+    "name": "Item41",
+    "value1": 46,
+    "value2": 2.5,
+    "date": "2026-05-30"
+  },
+  {
+    "id": 42,
+    "name": "Item42",
+    "value1": 15,
+    "value2": 6.8,
+    "date": "2026-06-05"
+  },
+  {
+    "id": 43,
+    "name": "Item43",
+    "value1": 28,
+    "value2": 8.2,
+    "date": "2026-07-10"
+  },
+  {
+    "id": 44,
+    "name": "Item44",
+    "value1": 42,
+    "value2": 1.7,
+    "date": "2026-08-15"
+  },
+  {
+    "id": 45,
+    "name": "Item45",
+    "value1": 19,
+    "value2": 4.1,
+    "date": "2026-09-20"
+  },
+  {
+    "id": 46,
+    "name": "Item46",
+    "value1": 31,
+    "value2": 7.9,
+    "date": "2026-10-25"
+  },
+  {
+    "id": 47,
+    "name": "Item47",
+    "value1": 23,
+    "value2": 3.4,
+    "date": "2026-11-30"
+  },
+  {
+    "id": 48,
+    "name": "Item48",
+    "value1": 38,
+    "value2": 5.6,
+    "date": "2026-12-05"
+  },
+  {
+    "id": 49,
+    "name": "Item49",
+    "value1": 14,
+    "value2": 9.2,
+    "date": "2027-01-10"
+  },
+  {
+    "id": 50,
+    "name": "Item50",
+    "value1": 29,
+    "value2": 2.9,
+    "date": "2027-02-15"
+  }
+]
